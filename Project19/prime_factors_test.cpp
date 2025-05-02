@@ -2,5 +2,7 @@
 #include "prime_factors.cpp"
 
 TEST(PrimeFactors, PrimeTest) {
-	EXPECT_EQ(1, 1);
+	EXPECT_EQ(1, 1);	// Test ????
+	EXPECT_EQ(1, 1);	// Test ????
+	EXPECT_EQ(1, 1);	// Test ????
 }
